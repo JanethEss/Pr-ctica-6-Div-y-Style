@@ -1,1 +1,1 @@
-# Pr-ctica-6-Div-y-Style
+# Practica-6-Div-y-Style
